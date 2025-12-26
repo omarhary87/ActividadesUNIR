@@ -1,0 +1,1864 @@
+[
+    {
+        "Country Name": "Aruba",
+        "Country Code": "ABW",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "",
+        "Country Code": "AFE",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Afganistán",
+        "Country Code": "AFG",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "",
+        "Country Code": "AFW",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Angola",
+        "Country Code": "AGO",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Albania",
+        "Country Code": "ALB",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Andorra",
+        "Country Code": "AND",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "El mundo árabe",
+        "Country Code": "ARB",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Emiratos Árabes Unidos",
+        "Country Code": "ARE",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Argentina",
+        "Country Code": "ARG",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Armenia",
+        "Country Code": "ARM",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Samoa Americana",
+        "Country Code": "ASM",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Antigua y Barbuda",
+        "Country Code": "ATG",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AUS",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Austria",
+        "Country Code": "AUT",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Azerbaiyán",
+        "Country Code": "AZE",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Burundi",
+        "Country Code": "BDI",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Bélgica",
+        "Country Code": "BEL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Benin",
+        "Country Code": "BEN",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Country Code": "BFA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Country Code": "BGD",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Bahrein",
+        "Country Code": "BHR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Bahamas",
+        "Country Code": "BHS",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Bosnia y Herzegovina",
+        "Country Code": "BIH",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Belarús",
+        "Country Code": "BLR",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Belice",
+        "Country Code": "BLZ",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Bermudas",
+        "Country Code": "BMU",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Bolivia",
+        "Country Code": "BOL",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Brasil",
+        "Country Code": "BRA",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Barbados",
+        "Country Code": "BRB",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Brunei Darussalam",
+        "Country Code": "BRN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Bhután",
+        "Country Code": "BTN",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Botswana",
+        "Country Code": "BWA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "República Centroafricana",
+        "Country Code": "CAF",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Canadá",
+        "Country Code": "CAN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Europa Central y del Báltico\n",
+        "Country Code": "CEB",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Suiza",
+        "Country Code": "CHE",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islas del Canal",
+        "Country Code": "CHI",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Chile",
+        "Country Code": "CHL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CHN",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Côte d'Ivoire",
+        "Country Code": "CIV",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Camerún",
+        "Country Code": "CMR",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Congo, República Democrática del",
+        "Country Code": "COD",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Congo, República del",
+        "Country Code": "COG",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Colombia",
+        "Country Code": "COL",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Comoras",
+        "Country Code": "COM",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Cabo Verde",
+        "Country Code": "CPV",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Country Code": "CRI",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Estados pequeos del Caribe",
+        "Country Code": "CSS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Cuba",
+        "Country Code": "CUB",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Curacao",
+        "Country Code": "CUW",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Caimán",
+        "Country Code": "CYM",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Chipre",
+        "Country Code": "CYP",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "República Checa",
+        "Country Code": "CZE",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Alemania",
+        "Country Code": "DEU",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Djibouti",
+        "Country Code": "DJI",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Dominica",
+        "Country Code": "DMA",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Dinamarca",
+        "Country Code": "DNK",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "República Dominicana",
+        "Country Code": "DOM",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Argelia",
+        "Country Code": "DZA",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Country Code": "EAP",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "inicial del dividendo demográfico",
+        "Country Code": "EAR",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Asia oriental y el Pacífico ",
+        "Country Code": "EAS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Europa y Asia central (excluido altos ingresos)",
+        "Country Code": "ECA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Europa y Asia central",
+        "Country Code": "ECS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Ecuador",
+        "Country Code": "ECU",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Egipto, República Árabe de",
+        "Country Code": "EGY",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Zona del Euro",
+        "Country Code": "EMU",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Eritrea",
+        "Country Code": "ERI",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "España",
+        "Country Code": "ESP",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Estonia",
+        "Country Code": "EST",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Etiopía",
+        "Country Code": "ETH",
+        "Region": "",
+        "Income_Group": "No clasificado",
+        "": ""
+    },
+    {
+        "Country Name": "Unión Europea",
+        "Country Code": "EUU",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Frágiles y situaciones de conflicto afectados\n",
+        "Country Code": "FCS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Finlandia",
+        "Country Code": "FIN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Fiji",
+        "Country Code": "FJI",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Francia",
+        "Country Code": "FRA",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Feroe",
+        "Country Code": "FRO",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Micronesia (Estados Federados de)",
+        "Country Code": "FSM",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Gabón",
+        "Country Code": "GAB",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Reino Unido",
+        "Country Code": "GBR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Georgia",
+        "Country Code": "GEO",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GHA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Gibraltar",
+        "Country Code": "GIB",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Guinea",
+        "Country Code": "GIN",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Gambia",
+        "Country Code": "GMB",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GNB",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Guinea Ecuatorial",
+        "Country Code": "GNQ",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Grecia",
+        "Country Code": "GRC",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Granada",
+        "Country Code": "GRD",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Groenlandia",
+        "Country Code": "GRL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Guatemala",
+        "Country Code": "GTM",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Guam",
+        "Country Code": "GUM",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Guyana",
+        "Country Code": "GUY",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Ingreso alto",
+        "Country Code": "HIC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Hong Kong, Región Administrativa Especial",
+        "Country Code": "HKG",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Honduras",
+        "Country Code": "HND",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Países pobres muy endeudados (PPME)",
+        "Country Code": "HPC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Croacia",
+        "Country Code": "HRV",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Haití",
+        "Country Code": "HTI",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Hungría",
+        "Country Code": "HUN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Sólo BIRF",
+        "Country Code": "IBD",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "BIRF y la AIF",
+        "Country Code": "IBT",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "total de la AIF",
+        "Country Code": "IDA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "mezcla de la AIF",
+        "Country Code": "IDB",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Indonesia",
+        "Country Code": "IDN",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Sólo AIF",
+        "Country Code": "IDX",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Isla de Man",
+        "Country Code": "IMN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IND",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "No clasificado",
+        "Country Code": "INX",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Irlanda",
+        "Country Code": "IRL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Irán, República Islámica del",
+        "Country Code": "IRN",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Iraq",
+        "Country Code": "IRQ",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islandia",
+        "Country Code": "ISL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Israel",
+        "Country Code": "ISR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Italia",
+        "Country Code": "ITA",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Jamaica",
+        "Country Code": "JAM",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Jordania",
+        "Country Code": "JOR",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Japón",
+        "Country Code": "JPN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Kazajstán",
+        "Country Code": "KAZ",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Kenya",
+        "Country Code": "KEN",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Kirguistán",
+        "Country Code": "KGZ",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Camboya",
+        "Country Code": "KHM",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Kiribati",
+        "Country Code": "KIR",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Saint Kitts y Nevis",
+        "Country Code": "KNA",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Corea, República de",
+        "Country Code": "KOR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Kuwait",
+        "Country Code": "KWT",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "América Latina y el Caribe (excluido altos ingresos)",
+        "Country Code": "LAC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "República Democrática Popular Lao",
+        "Country Code": "LAO",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Líbano",
+        "Country Code": "LBN",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Liberia",
+        "Country Code": "LBR",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Libia",
+        "Country Code": "LBY",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Santa Lucía",
+        "Country Code": "LCA",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "América Latina y el Caribe ",
+        "Country Code": "LCN",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Países menos desarrollados: clasificación de las Naciones Unidas",
+        "Country Code": "LDC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Países de ingreso bajo",
+        "Country Code": "LIC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Liechtenstein",
+        "Country Code": "LIE",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Country Code": "LKA",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Países de ingreso mediano bajo",
+        "Country Code": "LMC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Ingreso mediano y bajo",
+        "Country Code": "LMY",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Lesotho",
+        "Country Code": "LSO",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "avanzada del dividendo demográfico",
+        "Country Code": "LTE",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Lituania",
+        "Country Code": "LTU",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Luxemburgo",
+        "Country Code": "LUX",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Letonia",
+        "Country Code": "LVA",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Región Administrativa Especial de Macao, China",
+        "Country Code": "MAC",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Isla de San Martín (parte francesa)",
+        "Country Code": "MAF",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Marruecos",
+        "Country Code": "MAR",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Mónaco",
+        "Country Code": "MCO",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "República de Moldova",
+        "Country Code": "MDA",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Madagascar",
+        "Country Code": "MDG",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Maldivas",
+        "Country Code": "MDV",
+        "Region": "Asia meridional",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Oriente Medio, Norte de África, Afganistán y Pakistán",
+        "Country Code": "MEA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "México",
+        "Country Code": "MEX",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Marshall",
+        "Country Code": "MHL",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": " Ingreso mediano",
+        "Country Code": "MIC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Macedonia del Norte",
+        "Country Code": "MKD",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Malí",
+        "Country Code": "MLI",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Malta",
+        "Country Code": "MLT",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Myanmar",
+        "Country Code": "MMR",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Country Code": "MNA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Montenegro",
+        "Country Code": "MNE",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Mongolia",
+        "Country Code": "MNG",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Mariana",
+        "Country Code": "MNP",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Mozambique",
+        "Country Code": "MOZ",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Mauritania",
+        "Country Code": "MRT",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Mauricio",
+        "Country Code": "MUS",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Malawi",
+        "Country Code": "MWI",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Malasia",
+        "Country Code": "MYS",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "América del Norte",
+        "Country Code": "NAC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Namibia",
+        "Country Code": "NAM",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Nueva Caledonia",
+        "Country Code": "NCL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Níger",
+        "Country Code": "NER",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NGA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Country Code": "NIC",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Países Bajos",
+        "Country Code": "NLD",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Noruega",
+        "Country Code": "NOR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Nepal",
+        "Country Code": "NPL",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Nauru",
+        "Country Code": "NRU",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Nueva Zelandia",
+        "Country Code": "NZL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Miembros OCDE",
+        "Country Code": "OED",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Omán",
+        "Country Code": "OMN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Otros Estados pequeos",
+        "Country Code": "OSS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Pakistán",
+        "Country Code": "PAK",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Panamá",
+        "Country Code": "PAN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Perú",
+        "Country Code": "PER",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Filipinas",
+        "Country Code": "PHL",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Palau",
+        "Country Code": "PLW",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Papua Nueva Guinea",
+        "Country Code": "PNG",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Polonia",
+        "Country Code": "POL",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "previa al dividendo demográfico",
+        "Country Code": "PRE",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Puerto Rico (US)",
+        "Country Code": "PRI",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Corea, República Popular Democrática de",
+        "Country Code": "PRK",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Portugal",
+        "Country Code": "PRT",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Paraguay",
+        "Country Code": "PRY",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Ribera Occidental y Gaza",
+        "Country Code": "PSE",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Estados pequeos de las Islas del Pacfico",
+        "Country Code": "PSS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "posterior al dividendo demográfico",
+        "Country Code": "PST",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Polinesia Francesa",
+        "Country Code": "PYF",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Qatar",
+        "Country Code": "QAT",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Rumania",
+        "Country Code": "ROU",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Federación de Rusia",
+        "Country Code": "RUS",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Rwanda",
+        "Country Code": "RWA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Asia meridional",
+        "Country Code": "SAS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Arabia Saudita",
+        "Country Code": "SAU",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Sudán",
+        "Country Code": "SDN",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Senegal",
+        "Country Code": "SEN",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Singapur",
+        "Country Code": "SGP",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Salomón",
+        "Country Code": "SLB",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Sierra Leona",
+        "Country Code": "SLE",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "El Salvador",
+        "Country Code": "SLV",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "San Marino",
+        "Country Code": "SMR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "República Federal de Somalia",
+        "Country Code": "SOM",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Serbia",
+        "Country Code": "SRB",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "África al sur del Sahara (excluido altos ingresos)",
+        "Country Code": "SSA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Sudán del Sur",
+        "Country Code": "SSD",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "África al sur del Sahara",
+        "Country Code": "SSF",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Pequeños Estados",
+        "Country Code": "SST",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Santo Tomé y Príncipe",
+        "Country Code": "STP",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Suriname",
+        "Country Code": "SUR",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "República Eslovaca",
+        "Country Code": "SVK",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Eslovenia",
+        "Country Code": "SVN",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Suecia",
+        "Country Code": "SWE",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Eswatini",
+        "Country Code": "SWZ",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Sint Maarten (Dutch part)",
+        "Country Code": "SXM",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Seychelles",
+        "Country Code": "SYC",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "República Árabe Siria",
+        "Country Code": "SYR",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Turcas y Caicos",
+        "Country Code": "TCA",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Chad",
+        "Country Code": "TCD",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Asia oriental y el Pacífico (BIRF y la AIF)",
+        "Country Code": "TEA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Europa y Asia central (BIRF y la AIF)",
+        "Country Code": "TEC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Togo",
+        "Country Code": "TGO",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Tailandia",
+        "Country Code": "THA",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Tayikistán",
+        "Country Code": "TJK",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Turkmenistán",
+        "Country Code": "TKM",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "América Latina y el Caribe (BIRF y la AIF)",
+        "Country Code": "TLA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Timor-Leste",
+        "Country Code": "TLS",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Oriente Medio y Norte de África (BIRF y la AIF)",
+        "Country Code": "TMN",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Tonga",
+        "Country Code": "TON",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Asia meridional (BIRF y la AIF)",
+        "Country Code": "TSA",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "África al sur del Sahara (BIRF y la AIF)",
+        "Country Code": "TSS",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Trinidad y Tobago",
+        "Country Code": "TTO",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Túnez",
+        "Country Code": "TUN",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Turquía",
+        "Country Code": "TUR",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Country Code": "TUV",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Tanzanía",
+        "Country Code": "TZA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Uganda",
+        "Country Code": "UGA",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Ucrania",
+        "Country Code": "UKR",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Ingreso mediano alto",
+        "Country Code": "UMC",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Uruguay",
+        "Country Code": "URY",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Estados Unidos",
+        "Country Code": "USA",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Uzbekistán",
+        "Country Code": "UZB",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "San Vicente y las Granadinas",
+        "Country Code": "VCT",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Venezuela",
+        "Country Code": "VEN",
+        "Region": "",
+        "Income_Group": "No clasificado",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Vírgenes Británicas",
+        "Country Code": "VGB",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Islas Vírgenes (EE.UU.)",
+        "Country Code": "VIR",
+        "Region": "",
+        "Income_Group": "Ingreso alto",
+        "": ""
+    },
+    {
+        "Country Name": "Viet Nam",
+        "Country Code": "VNM",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Country Code": "VUT",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Mundo",
+        "Country Code": "WLD",
+        "Region": "",
+        "Income_Group": "Agregados",
+        "": ""
+    },
+    {
+        "Country Name": "Samoa",
+        "Country Code": "WSM",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Kosovo",
+        "Country Code": "XKX",
+        "Region": "Europa y Asia central (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Yemen, Rep. del",
+        "Country Code": "YEM",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Sudáfrica",
+        "Country Code": "ZAF",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Ingreso mediano alto",
+        "": ""
+    },
+    {
+        "Country Name": "Zambia",
+        "Country Code": "ZMB",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZWE",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": ""
+    }
+]
