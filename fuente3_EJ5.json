@@ -1,0 +1,23 @@
+[
+    {
+        "Año":2018,
+        "Departamento A":200000,
+        "Departamento B":150000,
+        "Departamento C":100000,
+        "Departamento D":50000
+    },
+    {
+        "Año":2019,
+        "Departamento A":220000,
+        "Departamento B":160000,
+        "Departamento C":110000,
+        "Departamento D":60000
+    },
+    {
+        "Año":2020,
+        "Departamento A":210000,
+        "Departamento B":155000,
+        "Departamento C":115000,
+        "Departamento D":70000
+    }
+]

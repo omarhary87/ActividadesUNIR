@@ -1,0 +1,27 @@
+[
+    {
+        "Producto":"Producto A",
+        "Gasto en Publicidad":20000,
+        "Ventas":100000
+    },
+    {
+        "Producto":"Producto B",
+        "Gasto en Publicidad":50000,
+        "Ventas":250000
+    },
+    {
+        "Producto":"Producto C",
+        "Gasto en Publicidad":30000,
+        "Ventas":200000
+    },
+    {
+        "Producto":"Producto D",
+        "Gasto en Publicidad":150000,
+        "Ventas":500000
+    },
+    {
+        "Producto":"Producto E",
+        "Gasto en Publicidad":25000,
+        "Ventas":120000
+    }
+]

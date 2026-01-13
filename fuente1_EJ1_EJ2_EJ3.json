@@ -1,0 +1,20 @@
+[
+    {
+        "Año":2018,
+        "Producto A":1500,
+        "Producto B":2000,
+        "Producto C":1300
+    },
+    {
+        "Año":2019,
+        "Producto A":1700,
+        "Producto B":1900,
+        "Producto C":1400
+    },
+    {
+        "Año":2020,
+        "Producto A":1600,
+        "Producto B":1800,
+        "Producto C":1500
+    }
+]
